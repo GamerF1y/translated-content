@@ -68,8 +68,8 @@ m dx dy
 
   <!-- Points -->
   <circle cx="10" cy="10" r="2" fill="red"/>
-  <circle cx="90" cy="90" r="2" fill="red"/>
   <circle cx="90" cy="10" r="2" fill="red"/>
+  <circle cx="90" cy="90" r="2" fill="red"/>
   <circle cx="10" cy="90" r="2" fill="red"/>
 
 </svg>
